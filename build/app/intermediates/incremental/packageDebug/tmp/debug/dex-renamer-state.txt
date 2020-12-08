@@ -1,0 +1,4 @@
+#Tue Dec 08 17:15:59 IST 2020
+base.0=/home/diksha/Documents/drinky flutter app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
